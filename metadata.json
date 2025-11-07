@@ -1,0 +1,5 @@
+{
+  "name": "Factur_totCOS",
+  "description": "An AI-powered web app to automatically manage invoices. Upload files (PDF, images, etc.), and the AI extracts all relevant data. Features cloud storage simulation, advanced search, data export, user role simulation, and a visual analytics dashboard. Includes a conversational AI assistant for quick financial insights.",
+  "requestFramePermissions": []
+}
